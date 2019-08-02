@@ -1283,3 +1283,23 @@ footer .credits a {
   }
 }
 /* --------------------- */
+
+
+
+
+.butn1 {
+  -webkit-border-radius: 4;
+  -moz-border-radius: 4;
+  border-radius: 4px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  background: #0078ff;
+  padding: 10px 21px 10px 20px;
+  text-decoration: none;
+}
+
+.butn1:hover {
+  background: #74c5f7;
+  text-decoration: none;
+}
